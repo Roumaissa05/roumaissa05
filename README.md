@@ -1,19 +1,35 @@
-Hi, I'm Romaissa 👋
+# Hi, I'm Romaissa 👋
 
 💻 Full Stack Developer  
 🎨 UI/UX Designer  
 
-## 🚀 About Me
-Passionate about building modern web applications and creating clean user experiences.
+---
+
+## 🌙 About Me
+I enjoy building clean and modern web applications with a focus on simplicity and user experience.  
+I care about details, design harmony, and creating meaningful digital products.
+
+---
 
 ## 🛠 Skills
-- Front-End: HTML, CSS, JavaScript
-- Back-End: (PHP (Laravel) | MySQL)
-- Programming: Python, Java, C, C++
+💡 Front-End  
+- HTML, CSS, JavaScript  
 
-## 📂 Projects
-- 🔗 Pacman Game 
-- 🔗 Pharmacy Website 
+⚙️ Back-End  
+- PHP (Laravel) | MySQL
+🧠 Programming  
+- Python, Java, C, C++  
+
+🎨 Design  
+- UI/UX Design  
+
+---
+
+## 🚀 Projects
+🚧 Coming soon...
+
+---
+
 
 <!--
 **Roumaissa05/roumaissa05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
