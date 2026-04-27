@@ -1,14 +1,10 @@
-# Hi, I'm Romaissa 👋
-
-💻 Full Stack Developer  
-🎨 UI/UX Designer  
-
----
+Hi, I'm Romaissa — Full Stack Developer & UI/UX Designer 👋
+✨ Passionate about clean code & elegant design
 
 ## 🌙 About Me
 I enjoy building clean and modern web applications with a focus on simplicity and user experience.  
-I care about details, design harmony, and creating meaningful digital products.
-
+I care about details, design harmony, and creating meaningful digital products.  
+Always learning and improving.
 ---
 
 ## 🛠 Skills
