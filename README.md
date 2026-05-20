@@ -22,10 +22,49 @@ UI/UX Design
 
 ---
 
-## 🚀 Projects
-🚧 Coming soon...
+🚀 Featured Projects
+
+### 💊 Pharmacy Management System
+A complete pharmacy system with:
+- Customer dashboard
+- Seller dashboard
+- Admin panel
+- Prescription upload
+- Medicine ordering system
+
+🔗 [View Project](https://pharmacyonline.infinityfreeapp.com)
 
 ---
+📅 Smart Booking System
+
+A fully responsive smart booking platform designed to simplify appointment scheduling. It enables users to book services, manage reservations, and view available time slots, while giving administrators full control over bookings and schedules.
+🔗 [View Project](https://roumaissa05.github.io/SmartBooking/))
+
+### 🕊️ Your Sacred Space
+A calming bilingual self-care web experience with:
+- Breathing exercises
+- Emotional affirmations
+- Relaxing UI
+- Arabic & English support
+
+🔗 [View Project](ضع_الرابط)
+
+---
+
+### 🧠 Human Mind Guide
+An interactive educational website about:
+- Human psychology
+- Habits
+- Mind programming
+- Bilingual content
+
+🔗 [View Project](https://hu-mind.netlify.app))
+
+---
+
+🏥 Clinic Management 
+A digital platform that showcases clinic details, doctors, specialties, and working hours in a clear and organized way for patients.
+🔗 [View Project](https://clinicwep.netlify.app))
 
 
 <!--
