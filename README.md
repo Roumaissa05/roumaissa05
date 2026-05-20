@@ -38,7 +38,7 @@ A complete pharmacy system with:
 📅 Smart Booking System
 
 A fully responsive smart booking platform designed to simplify appointment scheduling. It enables users to book services, manage reservations, and view available time slots, while giving administrators full control over bookings and schedules.
-🔗 [View Project](https://roumaissa05.github.io/SmartBooking/))
+🔗 [View Project](https://roumaissa05.github.io/SmartBooking/)
 
 ### 🕊️ Your Sacred Space
 A calming bilingual self-care web experience with:
@@ -47,7 +47,7 @@ A calming bilingual self-care web experience with:
 - Relaxing UI
 - Arabic & English support
 
-🔗 [View Project](ضع_الرابط)
+🔗 [View Project](https://roumaissa05.github.io/your-sacred-space/)
 
 ---
 
@@ -58,13 +58,13 @@ An interactive educational website about:
 - Mind programming
 - Bilingual content
 
-🔗 [View Project](https://hu-mind.netlify.app))
+🔗 [View Project](https://hu-mind.netlify.app)
 
 ---
 
 🏥 Clinic Management 
 A digital platform that showcases clinic details, doctors, specialties, and working hours in a clear and organized way for patients.
-🔗 [View Project](https://clinicwep.netlify.app))
+🔗 [View Project](https://clinicwep.netlify.app)
 
 
 <!--
