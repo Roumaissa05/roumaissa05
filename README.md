@@ -24,15 +24,6 @@ UI/UX Design
 
 🚀 Featured Projects
 
-### 💊 Pharmacy Management System
-A complete pharmacy system with:
-- Customer dashboard
-- Seller dashboard
-- Admin panel
-- Prescription upload
-- Medicine ordering system
-
-🔗 [View Project](https://pharmacyonline.infinityfreeapp.com)
 
 ---
 📅 Smart Booking System
