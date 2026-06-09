@@ -6,7 +6,7 @@ I enjoy building clean and modern web applications with a focus on simplicity an
 I care about details, design harmony, and creating meaningful digital products.  
 Always learning, improving, and striving for better solutions.
 ---
-
+[![Visit My Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-b08cff?style=for-the-badge&logoColor=white)]((https://ch-roumaissa.netlify.app))
 ## 🛠 Skills
 💻 Front-End  
 HTML • CSS • JavaScript  
